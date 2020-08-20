@@ -119,13 +119,13 @@ slide:nth-child(1) {
     left: 0%;
     animation-delay: -1s;
     
-    background-image: url(img/blogger.jpg);
+    background-image: url("/img/blogger.jpg");
     background-size: cover;
     background-position: center;
 }
 slide:nth-child(2) {
     animation-delay: 2s;
-    background-image: url(img/bohoc.jpg);
+    background-image: url('img/bohoc.jpg');
     background-size: cover;
     background-position: center;
 
