@@ -1,0 +1,118 @@
+@font-face {
+    font-family: 'anast';
+    src: url('/fonts/Anastasia.ttf');
+}
+
+@font-face {
+    font-family: 'LaBelle';
+    src: url(/fonts/LaBelleAurore.ttf);
+}
+
+@font-face {
+    font-family: lady;
+    src: url(/fonts/lady.ttf);
+}
+
+@font-face {
+    font-family: Marga;
+    src: url(/fonts/Margareta.ttf);
+}
+
+@font-face {
+    font-family: math;
+    src: url(/fonts/mathilde.otf);  
+    }
+
+@font-face {
+    font-family: miama;
+    src: url(/fonts/Miama.ttf);  
+    }
+@font-face {
+    font-family: roma;
+    src: url(/fonts/Romate.otf);  
+    }
+@font-face {
+    font-family: run;
+    src: url(/fonts/Run.ttf);  
+    }
+@font-face {
+    font-family: stale;
+    src: url(/fonts/Stalemate.ttf);  
+    }
+@font-face {
+    font-family: waiti;
+    src: url(/fonts/WaitingfortheSunrise.ttf);  
+    }
+@font-face {
+    font-family: wint;
+    src: url(/fonts/Winter.ttf);  
+    }
+@font-face {
+    font-family: youth;
+    src: url(/fonts/Youth.ttf);  
+    }
+
+    
+
+  #fo1  {
+    font-family: 'anast';
+    font-size: 48px;
+  }
+  #fo2  {
+    font-family:'LaBelle';
+    font-size: 48px;
+  }
+  
+  #fo3  {
+    font-family: 'lady';
+    font-size: 48px;
+  }
+
+  #fo4  {
+    font-family: 'Marga';
+    font-size: 48px;
+  }
+
+  #fo5  {
+    font-family: 'math';
+    font-size: 48px;
+  }
+  
+  #fo6  {
+    font-family: 'miama';
+    font-size: 48px;
+  }
+  
+  #fo7  {
+    font-family: 'roma';
+    font-size: 48px;
+  }
+  
+  #fo8  {
+    font-family: 'run';
+    font-size: 48px;
+  }
+  
+  #fo9  {
+    font-family: 'stale';
+    font-size: 48px;
+  }
+  
+  #fo10  {
+    font-family: 'waiti';
+    font-size: 48px;
+  }
+  
+  #fo11  {
+    font-family: 'wint';
+    font-size: 48px;
+  }
+  
+  #fo12  {
+    font-family: 'youth';
+    font-size: 48px;
+  }
+  
+  
+  
+  
